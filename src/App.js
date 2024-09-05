@@ -1,12 +1,11 @@
 // Import React and necessary components
 import React from 'react';
-import HerbalGarden from './HerbalGarden'; // Adjust the path if needed
+import Home from './Home';
 
 const App = () => {
   return (
     <div>
-      {/* Main App Container */}
-      <HerbalGarden />
+      <Home />
     </div>
   );
 }
